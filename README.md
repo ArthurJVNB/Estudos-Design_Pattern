@@ -4,8 +4,8 @@ Aqui estão os Design Patterns apresentados dia 26.11.2019, na aula de Programa�
 Esperamos que os exemplos aqui mostrados ajudem no seu aprendizado :)
 
 
-# Nosso grupo:
-  - Arthur Jorge Vila Nova Bezerra (github.com/ArthurJVNB)
-  - Jamerson Souza da Silva (github.com/Jamersonze)
+## Nosso grupo:
+  - Arthur Jorge Vila Nova Bezerra [ArthurJVNB](github.com/ArthurJVNB)
+  - Jamerson Souza da Silva [Jamersonze](github.com/Jamersonze)
   - Raísa
   - Rayanna
