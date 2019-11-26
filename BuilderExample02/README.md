@@ -1,7 +1,7 @@
 # Fonte
 Código que exemplifica o builder:
-	https://www.dofactory.com/net/builder-design-pattern
+	[Builder Design Pattern](https://www.dofactory.com/net/builder-design-pattern)
 
-# Observações
+## Observações
 - Site em inglês e código em C#.
-- Convertido para Java e adaptado para apresentação em sala por ArthurJVNB.
+- Convertido para Java e adaptado para apresentação em sala por [ArthurJVNB](github.com/ArthurJVNB).
