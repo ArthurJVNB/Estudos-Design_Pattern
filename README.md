@@ -7,5 +7,5 @@ Esperamos que os exemplos aqui mostrados ajudem no seu aprendizado :)
 ## Nosso grupo:
   - Arthur Jorge Vila Nova Bezerra ([ArthurJVNB](github.com/ArthurJVNB))
   - Jamerson Souza da Silva ([Jamersonze](github.com/Jamersonze))
-  - Raísa
-  - Rayanna
+  - Raisa Mirella R Oliveira Bernardes ([RaisaBernardes](github.com/RaisaBernardes))
+  - Rayanna ([rayanagoncalves](github.com/rayanagoncalves))
