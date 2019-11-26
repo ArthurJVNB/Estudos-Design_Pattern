@@ -4,4 +4,4 @@ Código que exemplifica o builder:
 
 # Observações
 - Site em inglês e código em C#.
-- Convertido para Java e adaptado para apresentação em sala por Arthur Vila Nova.
+- Convertido para Java e adaptado para apresentação em sala por ArthurJVNB.
