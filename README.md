@@ -5,7 +5,7 @@ Esperamos que os exemplos aqui mostrados ajudem no seu aprendizado :)
 
 
 # Nosso grupo:
-  - Arthur Jorge Vila Nova Bezerra
-  - Jamerson
+  - Arthur Jorge Vila Nova Bezerra (github.com/ArthurJVNB)
+  - Jamerson Souza da Silva (github.com/Jamersonze)
   - Raísa
   - Rayanna
